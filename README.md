@@ -1,9 +1,15 @@
 # DashBoard
 
+- This is dashboard application]
+
+## screenshot
+
+![](./images/screenshot.png)
+
 
 ## Links
 
-- solution url [ Click me ](https://nicholasbarkote.github.io/Qr-code/)
+- solution url [ Click me ]()
 
 # Built With
 
